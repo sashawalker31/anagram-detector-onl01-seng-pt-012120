@@ -1,3 +1,10 @@
-attr_accessor 
+class Anagram
+  
+  attr_accessor 
 
-def self.match
+  def self.match
+    
+  end 
+  
+  
+end 
