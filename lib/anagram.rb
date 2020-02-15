@@ -2,8 +2,8 @@ class Anagram
   
   attr_accessor 
 
-  def self.match
-    
+  def initialize
+    @diaper = diaper
   end 
   
   
