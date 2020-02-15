@@ -1,1 +1,3 @@
-# Your code goes here!
+attr_accessor 
+
+def self.match
