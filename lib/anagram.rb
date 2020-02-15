@@ -4,6 +4,7 @@ class Anagram
 
   def initialize
     @diaper = diaper
+    @all << self 
   end 
   
   
