@@ -1,10 +1,9 @@
 class Anagram
   
-  attr_accessor 
+  attr_accessor :word
 
   def initialize
-    @diaper = diaper
-    @all << self 
+    @word = word 
   end 
   
   
